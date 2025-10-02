@@ -1,0 +1,91 @@
+﻿model,persona,question_id,correctness,completeness,clarity,educational_value,tone,total_score,notes
+GPT-5,1,1,2,2,1,1,2,7,Good response algebra missed unessecarily. Intuition/transferable skills omitted
+Claude,1,1,2,2,1,1,2,7,Good response some ambiguity in explanation and little generalisation for similar problems
+DeepSeek,1,1,2,2,2,1,1,8,Response is well done but lacks in empathy general takaways or diagnostic advice
+GPT-5,1,2,2,2,2,2,2,10,Excellent response.
+Claude,1,2,2,1,0,0,1,5,Correct solution but deals with the student's mistake very poorly
+DeepSeek,1,2,2,2,1,1,1,5,Good response lacking empathy and general takaways
+GPT-5,1,3,2,1,2,1,1,7,Solution clearly and correctly derived however lacks encouragement and does not catch an error made by the student
+Claude,1,3,2,2,1,1,1,7,Correct clear solution though difficulty evaluating errors
+DeepSeek,1,3,2,1,1,1,1,6,Solution correctly identified though false negative impacts answer
+GPT-5,1,4,2,1,2,2,2,9,Very good response perhaps lacking all necessary reasoning needed for the student
+Claude,1,4,2,2,1,1,2,8,Good response though misleading error explanation could be improved
+DeepSeek,1,4,2,2,2,2,2,10,Excellent response.
+GPT-5,1,5,2,2,0,0,2,6,Correct and complete solution derived using hard-to-follow reasoning
+Claude,1,5,1,1,0,0,1,3,Incorrect response using confusing reasoning and excessive jargon
+DeepSeek,1,5,0,0,0,0,1,1,Very poor response characterized by excessive flawed reasoning and solving for the wrong variable
+GPT-5,1,6,2,2,1,1,2,8,Correct response and reasoning however may mislead the student
+Claude,1,6,2,2,2,1,1,8,Clear and correct response
+DeepSeek,1,6,2,2,2,2,1,9,Excellent response with neutral tone
+GPT-5,2,1,2,2,2,2,1,9,Excellent response but neutral in tone
+Claude,2,1,0,1,1,0,2,4,Incorrect response lacking depth and making several mistakes
+DeepSeek,2,1,2,1,2,1,1,7,Correct and clear response but overexplains and lacks in depth
+GPT-5,2,2,2,2,2,2,2,10,Excellent response
+Claude,2,2,1,2,1,0,2,6,Algebraically (but not numerically) correct answer with no transferable insight given
+DeepSeek,2,2,1,1,1,1,1,5,Algebraically (but not numerically) correct solution with little value added
+GPT-5,2,3,2,2,2,2,2,10,Excellent response
+Claude,2,3,2,2,1,2,1,8,Good solution slightly excessive in depth
+DeepSeek,2,3,2,1,1,1,1,6,Correct solution though not appropriate for the persona
+GPT-5,2,4,2,2,2,2,1,9,Well structured response neutral in tone
+Claude,2,4,1,2,2,0,1,6,Incorrect answer with no tranferable insight given
+DeepSeek,2,4,2,1,1,1,1,6,Correct but messy response
+GPT-5,2,5,1,2,1,0,2,6,One reasoning error but good otherwise supportive in tone
+Claude,2,5,0,1,1,0,1,2,Incorrect solution with several errors
+DeepSeek,2,5,0,0,0,0,1,1,Poor response
+GPT-5,2,6,2,1,2,1,1,7,Correct response lacking in depth
+Claude,2,6,2,2,2,2,2,10,Excellent Response
+DeepSeek,2,6,2,2,2,2,1,9,Excellent response neutral in tone
+GPT-5,3,1,2,2,2,1,1,8,Good solution that could be structured more appropriately for the student's needs
+Claude,3,1,0,1,1,0,1,3,Incoherent response with several errors
+DeepSeek,3,1,2,2,2,1,1,8,Correct response lacking supportive tone and insight
+GPT-5,3,2,2,2,2,2,2,10,Excellent persona appropriate response
+Claude,3,2,0,0,1,0,1,2,Misdiagnosed error and no transferable insight given
+DeepSeek,3,2,1,1,1,1,1,5,Moderate response
+GPT-5,3,3,2,2,2,1,2,9,Good response
+Claude,3,3,2,1,2,1,1,7,Good response lacking some solution parts and transferable advice
+DeepSeek,3,3,2,1,2,2,1,8,Good response lacking some solution parts
+GPT-5,3,4,2,2,2,2,2,10,Excellent response
+Claude,3,4,2,2,1,2,1,8,Excellent response lacking clarity on the mistake
+DeepSeek,3,4,2,2,1,1,1,7,Good response
+GPT-5,3,5,2,2,2,1,2,9,Excellent response lacking transferable knowledge
+Claude,3,5,0,1,1,0,1,3,Poor response
+DeepSeek,3,5,2,2,1,2,1,8,Excellent response lacking supportive tone and transferable knowledge
+GPT-5,3,6,2,2,2,1,2,10,Good response
+Claude,3,6,2,1,2,1,1,7,Good response lacking in clarity of error identification
+DeepSeek,3,6,2,2,1,2,1,8,Good response lacking but high in redundancy
+GPT-5,4,1,2,2,1,2,2,9,Excellent response that could use restructuring
+Claude,4,1,1,2,1,1,1,6,Error misidentified and neutral tone but correct solution
+DeepSeek,4,1,2,1,2,2,2,9,Excellent and well structured solution lacking explicit error identification
+GPT-5,4,2,2,2,2,2,1,9,Excellent response lacking appropriate tone
+Claude,4,2,1,2,2,1,1,7,Good response
+DeepSeek,4,2,1,2,2,1,2,8,Good response with suboptimal approach in deriving solution
+GPT-5,4,3,2,1,1,1,2,7,Excellent response missing one error identification
+Claude,4,3,0,0,1,1,0,2,Poor response
+DeepSeek,4,3,2,1,2,2,2,9,Excellent response lacking all errors being identified
+GPT-5,4,4,2,2,1,1,1,7,Good response lacking correct ordering and tone
+Claude,4,4,1,1,1,1,1,5,Correct solution but incorrect and vague error identification
+DeepSeek,4,4,2,2,2,2,2,10,Excellent response
+GPT-5,4,5,2,2,2,2,2,10,Excellent response
+Claude,4,5,0,0,1,1,1,3,One major reasoning error leading to several inconsistencies and mistake is not sufficiently addressed
+DeepSeek,4,5,1,1,1,1,2,6,Excessive response with one reasoning error but otherwise good
+GPT-5,4,6,2,2,2,2,2,10,Excellent response
+Claude,4,6,2,2,2,2,1,9,Excellent response with neutral tone
+DeepSeek,4,6,2,1,1,2,1,7,Good response but excessive and tone neutral
+GPT-5,5,1,2,1,1,1,1,6,Correct response but not persona appropriate
+Claude,5,1,2,1,2,1,1,7,Good response lacking a sufficient explanation
+DeepSeek,5,1,2,1,1,1,2,7,Good response lacking one explanation and an appropriate response structure
+GPT-5,5,2,2,1,2,2,1,8,Good response lacking in tone and sufficient conceptual explanations
+Claude,5,2,2,1,1,1,2,7,Good response that fails to catch a formula error and lacks explanation
+DeepSeek,5,2,2,1,1,1,2,7,Good response that fails to catch a formula error and lacks explanation
+GPT-5,5,3,2,1,0,1,1,5,Correct response but poorly scaffolded and tone neutral
+Claude,5,3,2,1,2,2,1,8,Good response failing to explicitly identify a mistake
+DeepSeek,5,3,2,1,0,1,2,6,Correct response but excessive and lacks correct error outline
+GPT-5,5,4,2,2,2,2,1,9,Excellent tone neutral response
+Claude,5,4,2,2,2,2,2,10,Excellent response
+DeepSeek,5,4,2,2,1,1,2,8,Good response that could be restructured with additional insight and physical intuition
+GPT-5,5,5,2,1,2,1,2,8,Good response lacking error identification and transferable insight
+Claude,5,5,1,1,1,0,1,4,Correct but confused response
+DeepSeek,5,5,1,1,0,0,1,3,Hesitant and misinterpreted response with little learning value
+GPT-5,5,6,2,1,1,1,1,6,Good response lacking tone and sufficient explanations
+Claude,5,6,2,1,2,1,1,7,Good response lacking correct error identification
+DeepSeek,5,6,2,2,2,2,2,10,Excellent response 
