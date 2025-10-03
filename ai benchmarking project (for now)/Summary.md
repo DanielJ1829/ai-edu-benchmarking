@@ -74,4 +74,8 @@ This benchmarking study compared the performance of *Claude*, *DeepSeek*, and *G
 ---
 
 ## Other Notes
+
 1. The rubric was designed in such a way where poor resposnses occasionally lacked distinction with better responses, leading to lower ranges in model performances than predicted. A better defined rubric would have prevented this issue and would've allowed for more consistent results.
+2. The questions sometimes suffered poor design; in which models had significant difficulty either understanding the question or identifying the student's mistake. Better question design can prevent this.
+3. Whilst GPT5 and Claude answer questions by thinking, then answering (and structuring the answer accordingly), DeepSeek tends to think as it answers; this led to frequent docking in response clarity.
+4. Response structure (mistake outline -> solution vs solution -> mistake outline) depends on mistake type and severity; DeepSeek's tendency to think as it answers sometimes can benefit clarity but only accidentally; clarity was not docked in these cases.
