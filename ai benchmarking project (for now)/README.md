@@ -82,7 +82,7 @@ A summary of the analysis can be seen in /Summary.md
 
 1) Clone the repo:
 *git clone https://github.com/yourusername/ai-edu-benchmarking.git*
-*cd ai-edu-benchmarking/Analysis/DataAnalysis*
+*cd ai-edu-benchmarking/Analysis/DataAnalysis* <--although in practice, just ensure you responsedata.csv and MainAnalysis.py are in the same directory-->
 
 2) Install dependencies (recommended in a virtualenv):
 *pip install pandas plotly*
@@ -93,3 +93,4 @@ A summary of the analysis can be seen in /Summary.md
 4) Results:
 Tables saved in Results Table.txt
 Visualizations saved in Graphics/
+
