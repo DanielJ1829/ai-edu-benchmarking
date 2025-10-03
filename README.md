@@ -58,7 +58,7 @@ A total score out of 10 was calculated for each response.
 **Data Analysis**
 The analysis (in Analysis/DataAnalysis/) was carried out using pandas and plotly, and includes:
 Overall Model Performance:
-Mean, median, min, max, standard deviation, coefficient of variation (CV).
+mean, median, min, max, standard deviation, coefficient of variation (CV).
 
 By Persona:
 Mean & std for each model × persona, plus skewness/kurtosis where relevant.
@@ -93,3 +93,4 @@ A summary of the analysis can be seen in /Summary.md
 4) Results:
 Tables saved in Results Table.txt
 Visualizations saved in Graphics/
+
