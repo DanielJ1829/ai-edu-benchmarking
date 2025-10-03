@@ -30,6 +30,7 @@ This allows evaluation not just of factual accuracy/reasoning ability, but of ho
 -----------------
 **Benchmarking Questions**
 The questions (in data/Questions/) cover a mix of:
+
 1.) Mathematics (integration, algebra, probability, geometry)
 
 2.) Physics (projectile motion, kinematics, mechanics, electricity)
@@ -93,5 +94,6 @@ A summary of the analysis can be seen in /Summary.md
 4) Results:
 Tables saved in Results Table.txt
 Visualizations saved in Graphics/
+
 
 
