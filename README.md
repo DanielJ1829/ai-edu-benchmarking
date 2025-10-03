@@ -5,7 +5,7 @@ The goal is to measure not only correctness, but also how clear, complete, educa
 --------------------
 **Repository Structure**
 
-ai-edu-benchmarking/            # Root Folder
+ai benchmarking (for now)/            # Root Folder
 ├── data/                       # Inputs for benchmarking
 │   ├── Personas - Prompts/     # Persona descriptions + prompts for each persona&question
 │   ├── Questions/              # Benchmark questions (Markdown + Jupyter) - General questions and expected solutions
@@ -93,4 +93,5 @@ A summary of the analysis can be seen in /Summary.md
 4) Results:
 Tables saved in Results Table.txt
 Visualizations saved in Graphics/
+
 
